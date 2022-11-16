@@ -1,4 +1,4 @@
-![logo](image/6268c21422312850540352.jpeg)
+![logo](img/Dreams.jpeg)
 
 # Всем привет! 
 
